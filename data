@@ -1,0 +1,49 @@
+{
+	"data":[
+  {
+  "idProduto": 1,
+  "nomeProduto": "Bolacha",
+  "descricaoProduto": "Recheado",
+  "fabricadoPor": "Nestle",
+  "embaladoPor": "Nestle"
+  
+},
+{
+  "idProduto": 2,
+  "nomeProduto": "Danone",
+  "descricaoProduto": "Duvidoso",
+  "fabricadoPor": "Nestle",
+  "embaladoPor": "Nestle"
+  
+},
+{
+  "idProduto": 3,
+  "nomeProduto": "Refrigerante",
+  "descricaoProduto": "Fanta",
+  "fabricadoPor": "Nestle",
+  "embaladoPor": "Nestle"
+  
+},
+{
+  "idProduto": 4,
+  "nomeProduto": "Farinha",
+  "descricaoProduto": "Nita",
+  "fabricadoPor": "Nestle",
+  "embaladoPor": "Nestle"
+  
+},
+{
+  "idProduto": 5,
+  "nomeProduto": "Carne",
+  "descricaoProduto": "Bovina",
+  "fabricadoPor": "Nestle",
+  "embaladoPor": "Nestle"
+  
+}
+]
+}
+
+  
+  
+  
+  
